@@ -6,8 +6,7 @@ node_modules/
 uploads/
 
 # WordPress core bundles
-plugins/akismet/
-plugins/hello.php
-themes/twenty*/
-themes/index.php
-plugins/index.php
+plugins/*
+themes/*
+!plugins/.gitkeep
+!themes/goldy-portfolio/
